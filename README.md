@@ -6,6 +6,16 @@
 
 #### Usage
 
+```
+promjson: version 1.0.0
+Usage: promjson [-h] [-p port]
+
+Options:
+  -h	help infomation
+  -p int
+    	set port of server running (default 19100)
+```
+
 * Query JSON Metrics
 
 ```
